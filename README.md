@@ -11,6 +11,10 @@ as made available by NeoResearch Community in October 2020.
 - [DBFT 3.0 Report Pre-Release](./docs/dBFT3_0-Report-NeoResearch-prerelease-20-04-04.pdf) - 04/04/2020
 - [DBFT 3.0 Specification](./docs/dBFT3.0_Specification.pdf)
 
+Suggested readings:
+
+* [Challenges of PBFT-Inspired Consensus for Blockchain and Enhancements over Neo dBFT](https://www.mdpi.com/1999-5903/12/8/129)
+
 Creative Commons - CC-BY-4.0
 
 NeoResearch Community 2020
