@@ -13,7 +13,7 @@ as made available by NeoResearch Community in October 2020.
 
 Suggested readings:
 
-* [Challenges of PBFT-Inspired Consensus for Blockchain and Enhancements over Neo dBFT](https://www.mdpi.com/1999-5903/12/8/129)
+* [Challenges of PBFT-Inspired Consensus for Blockchain and Enhancements over Neo dBFT](https://www.mdpi.com/1999-5903/12/8/129), formerly written as the Report.
 
 Creative Commons - CC-BY-4.0
 
